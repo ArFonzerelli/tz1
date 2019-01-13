@@ -13,7 +13,7 @@
 
 startDateTime,startTimeZone,stopDateTime,StopTimeZone
 
-2018-02-05 08:00,Asia/Singapore,2018-02-05 08:00,Asia/Singapore
+2018-02-05 08:00,Asia/Singapore,2018-02-05 08:00,Asia/Singapore\n
 2018-02-09 09:00,Asia/Singapore,2018-02-20 17:00,Asia/Singapore
 2012-02-06 08:00,Asia/Singapore,2012-02-10 19:00,America/New_York
 2012-02-10 09:00,Europe/London,2012-02-20 09:00,Europe/London
